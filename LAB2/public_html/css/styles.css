@@ -1,0 +1,56 @@
+body {
+    background-color: azure;
+    background-image: url("../img/white-bg-dots.jpg");
+    background-attachment: fixed;
+}
+
+h1 {
+    text-align: center;
+    margin-right: 36vw;
+    text-decoration: underline;
+    font-style: oblique;
+    font-size: 4vw;
+}
+
+.main-text {
+    font-size: 2vw;
+    text-align: left;
+    border: hidden;
+    word-wrap: break-word;
+    width: 70vw;
+}
+
+.span-elem {
+    font-size: 3vw;
+    font-style: oblique;
+    font-weight: bold;
+}
+
+.viewed-value {
+    text-decoration: underline;  
+}
+
+.sun-word {
+    color: blue;
+}
+
+span#moon-pic {
+    background-image: url("../img/full-moon-dark-bg.jpg");
+    background-size: cover;
+    height: 25vw;
+    width: 25vw;
+    float: right;
+    margin-left: 1vw;
+    margin-right: 30vw;
+    margin-bottom: 1vw;
+}
+
+h2#satellite {
+    color: #04BA04;
+    margin-top: 10vh;
+    margin-bottom: 4vh;
+}
+
+h2#chemistry {
+    font-size: 2vw;
+}
